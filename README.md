@@ -1,6 +1,6 @@
 # Utility Belt
 
-Welcome to the Utility Belt repository! This repository serves as a collection of various tools and utilities created by [Your Name] in Python, SQL, and R. Whether you're looking for a handy script to automate a task or a specialized tool for a specific purpose, you might find it here in our Utility Belt.
+Welcome to the Utility Belt repository! This repository serves as a collection of various tools and utilities created by Dan Urquhart in Python, SQL, and R. Whether you're looking for a handy script to automate a task or a specialized tool for a specific purpose, you might find it here in our Utility Belt.
 
 ## Table of Contents
 
