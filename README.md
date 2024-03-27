@@ -12,7 +12,7 @@ Welcome to the Utility Belt repository! This repository serves as a collection o
 
 ## Introduction
 
-In the fast-paced world of programming and development, having a diverse set of tools at your disposal can greatly enhance productivity and efficiency. The Utility Belt repository is a testament to that philosophy. Here, you'll find a growing collection of tools and utilities crafted by [Your Name] to tackle various challenges encountered in software development, data analysis, automation, and more.
+In the fast-paced world of programming and development, having a diverse set of tools at your disposal can greatly enhance productivity and efficiency. The Utility Belt repository is a testament to that philosophy. Here, you'll find a growing collection of tools and utilities crafted by Dan Urquhart to tackle various challenges encountered in software development, data analysis, automation, and more.
 
 ## Tools
 
@@ -27,7 +27,7 @@ The tools housed in this repository cover a wide range of functionalities, inclu
 
 ## Contributing
 
-This repository is solely maintained by [Your Name]. However, contributions are welcome in the form of suggestions, feedback, or even new tools and utilities in Python, SQL, or R. If you have something to contribute, please feel free to reach out.
+This repository is solely maintained by Dan Urquhart. However, contributions are welcome in the form of suggestions, feedback, or even new tools and utilities in Python, SQL, or R. If you have something to contribute, please feel free to reach out.
 
 ## License
 
